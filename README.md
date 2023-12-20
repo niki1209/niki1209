@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @niki1209
-- 👀 I’m interested in coding, robotics and automation
-- 🌱 I’m currently learning c,c#,microcontrollers
+- 👀 I’m simply interested in coding
+- 🌱 Technical Skills are: App Development
+-                          Machine Learning       
+                           Cloud | Azure   
+                           Python                                                  
+                           React
 
 
